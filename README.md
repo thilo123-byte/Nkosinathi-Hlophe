@@ -23,4 +23,4 @@ My work focuses on exploratory data analysis, SQL querying, and dashboard develo
   Dataset cleaning, statistical exploration, and visualization.
 
 ## Portfolio
-Full projects available in my repositories below.
+[View My Portfolio](https://github.com/thilo123-byte/Portfolio)
